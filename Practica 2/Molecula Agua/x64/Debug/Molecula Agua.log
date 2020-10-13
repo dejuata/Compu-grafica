@@ -1,0 +1,23 @@
+﻿  Main.cpp
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(33,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(39,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(40,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(51,40): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(55,35): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(56,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(59,61): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(64,69): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(67,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(70,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(73,71): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(77,69): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(80,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(83,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(86,71): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(91,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(96,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(98,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(102,69): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(107,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\dejua\source\repos\Molecula Agua\Main.cpp(109,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Molecula Agua.vcxproj -> C:\Users\dejua\source\repos\Molecula Agua\x64\Debug\Molecula Agua.exe

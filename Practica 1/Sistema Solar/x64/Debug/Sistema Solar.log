@@ -1,0 +1,17 @@
+﻿  Main.cpp
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(42,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(43,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(57,53): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(61,64): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(62,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(65,33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(66,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(69,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(73,66): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(77,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(81,67): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(85,71): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(89,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(93,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\Main.cpp(97,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Sistema Solar.vcxproj -> D:\Univalle\2020-I\COMPUTACIÓN GRÁFICA\Parcial\Practica 1\Sistema Solar\x64\Debug\Sistema Solar.exe

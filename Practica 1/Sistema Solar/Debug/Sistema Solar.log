@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(39,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(40,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(54,53): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(58,64): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(59,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(62,33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(63,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(66,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(70,66): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(74,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(78,67): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(82,71): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(86,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(90,68): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\dejua\source\repos\Sistema Solar\Main.cpp(94,70): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+Main.obj : error LNK2019: símbolo externo __imp__glutInitWindowPosition@8 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutInitWindowSize@8 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutInitDisplayMode@4 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutMainLoop@0 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutPostRedisplay@0 sin resolver al que se hace referencia en la función "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z)
+Main.obj : error LNK2019: símbolo externo __imp__glutSwapBuffers@0 sin resolver al que se hace referencia en la función "void __cdecl display(void)" (?display@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutKeyboardFunc@4 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutReshapeFunc@4 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutDisplayFunc@4 sin resolver al que se hace referencia en la función "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: símbolo externo __imp__glutSolidSphere@16 sin resolver al que se hace referencia en la función "void __cdecl drawPlanet(float * const)" (?drawPlanet@@YAXQAM@Z)
+Main.obj : error LNK2019: símbolo externo __imp____glutInitWithExit@12 sin resolver al que se hace referencia en la función _glutInit_ATEXIT_HACK@8
+Main.obj : error LNK2019: símbolo externo __imp____glutCreateWindowWithExit@8 sin resolver al que se hace referencia en la función _glutCreateWindow_ATEXIT_HACK@4
+C:\MinGW\freeglut\lib\x64\freeglut.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\dejua\source\repos\Sistema Solar\Debug\Sistema Solar.exe : fatal error LNK1120: 12 externos sin resolver
